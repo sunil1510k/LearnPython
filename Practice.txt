@@ -1,0 +1,20 @@
+
+
+
+Basic to Intermediate : 
+
+https://pynative.com/
+https://pythonbasics.org/exercises/
+https://www.practicepython.org/
+https://pythoninstitute.org/pcep
+
+Intermediate to Advance : 
+hackerrank
+leetcode
+
+
+
+
+
+
+
