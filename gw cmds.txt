@@ -1,0 +1,51 @@
+GW COMMANDS:
+............
+gwb clean
+gwb cleanidea
+gwb compile
+gwb studio
+
+
+
+8:34 AM
+
+Mukul to Everyone
+
+http://localhost:8180/pc/PolicyCenter.do
+
+
+
+
+8:38 AM
+
+Mukul to Everyone
+
+sht + atl + T = Internal Tools -> PC Sample Data 
+
+
+
+
+9:56 AM
+
+Mukul to Everyone
+
+approcessor - Producer
+aapplegate - Underwriter
+
+
+
+10:02 AM
+
+Mukul to Everyone
+
+aapplegate/gw
+
+
+
+
+10:02 AM
+
+Mukul to Everyone
+
+su/gwgw
+
