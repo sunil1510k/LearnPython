@@ -1,0 +1,5 @@
+ Python is easy to go language  
+  There is a vast collection of packages here 
+There is no Void Functions
+There are no pointers
+there are no termination of code with ;
